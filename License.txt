@@ -5,7 +5,7 @@ These images have been generated using the prompt:
 and with the "Low Poly" style generator.
 
 Copyright/Attribution Notice: 
-No attribution required
+No attribution required, but you can credit "CreArt".
 
 License:
 CC0
